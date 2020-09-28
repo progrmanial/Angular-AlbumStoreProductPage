@@ -8,6 +8,6 @@ export class ProductService {
 
   constructor(private _http: Http) { }
 
-  function getAlbum (id:number)
+  getAlbum ( id: number ) { }
 
 }
