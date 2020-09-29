@@ -1,4 +1,4 @@
-import ',/album.tstttttttttgggggggggggggg6';
+import { Track } from './track';
 export interface Album {
   name:string;
   releaseDate:string;
